@@ -29,7 +29,7 @@ En este repositorio se documenta el progreso práctico de la materia, incluyendo
 | `dev-pr-dynamic/app-suscriptores.ipynb` | [Ejercicio parcial primer corte] | ✅ Completado |
 | `Semana-7/lab01_tercio02..ipynb` | [Laboratorio gestión de productos con colas]. | ✅ Completado |
 | `Semana-8/lab02_tercio02.ipynb` | [Organización de códigos de productos mediante árboles]. | ✅ Completado |
-
+| `Semana 9/lab03_tercio02.ipynb` | [implement graph delivery network with bfs and dfs] | ✅ Completado |
 ## 🛠️ Tecnologías y Entorno
 
 * **Lenguaje:** Python
